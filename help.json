@@ -1,0 +1,9 @@
+{
+	"commands": {
+		"help": {
+			"description": "Show help for a command or plugin.",
+			"usage": "!help [command] or !help plugin <name>",
+			"permission": "help.use"
+		}
+	}
+}

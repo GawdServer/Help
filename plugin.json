@@ -1,0 +1,8 @@
+{
+  "name": "Help",
+  "version": "1.0",
+  "mainClass": "io.github.gawdserver.help.Help",
+  "commands": {
+    "help": "io.github.gawdserver.help.CommandHelp"
+  }
+}
